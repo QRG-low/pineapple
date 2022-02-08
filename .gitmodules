@@ -1,0 +1,12 @@
+[submodule "pineapple_calculator"]
+	path = pineapple_calculator
+	url = https://github.com/QRG-low/pineapple_calculator
+[submodule "pineapple_storage"]
+	path = pineapple_storage
+	url = https://github.com/QRG-low/pineapple_storage
+[submodule "pineapple_service"]
+	path = pineapple_service
+	url = https://github.com/QRG-low/pineapple_service
+[submodule "pineapple_gateway"]
+	path = pineapple_gateway
+	url = https://github.com/QRG-low/pineapple_gateway
