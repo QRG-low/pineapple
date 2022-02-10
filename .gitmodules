@@ -10,3 +10,6 @@
 [submodule "pineapple_gateway"]
 	path = pineapple_gateway
 	url = https://github.com/QRG-low/pineapple_gateway
+[submodule "pineapple_frontend"]
+	path = pineapple_frontend
+	url = https://github.com/QRG-low/pineapple_frontend
